@@ -5,7 +5,13 @@ title: Activity - Getting Started with Jekyll
 
 In this post, we'll get set up with [Jekyll](https://jekyllrb.com/). Jekyll is a *static site converter*, which you can use to turn plaintext documents into attractive webpages. 
 
-Editing my post over here!!!!!!
+Editing my post over here!
+
+```python
+def f(x):
+    2*x
+```
+
 
 ## Pre-Work: Install Jekyll
 
